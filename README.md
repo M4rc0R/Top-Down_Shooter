@@ -1,6 +1,9 @@
 Projeto desenvolvido como desafio para a empresa Bored Army
 
 
+Resolução: 1920 x 1080
+
+
 Meu primeiro projeto extracurricular seguindo as seguinte diretrizes:
 
 
